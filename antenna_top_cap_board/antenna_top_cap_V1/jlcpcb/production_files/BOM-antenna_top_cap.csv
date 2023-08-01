@@ -1,0 +1,28 @@
+Comment,Designator,Footprint,LCSC
+1K,"R1,R5,R6,R7,R8",R_0402_1005Metric,C11702
+0.1uF,"C3,C6",C_0603_1608Metric,C14663
+BSS138,Q1,SOT-363_SC-70-6,C154900
+BM04B-SRSS-TB(LF)(SN),"J12,J14,J16,J9",JST_BM04B-SRSS-TB(LF)(SN),C160390
+Breakout,"J4,J8",JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,C160404
+LP5907-2.8V,U2,SOT-23-5,C186700
+"PCT2075DP,118",IC1,TSSOP-8_3x3mm_P0.65mm,C192518
+USB_B_Micro,"J10,J11,J13,J15",MOLEX_105164-0001,C234179
+10K,"R2,R4",R_0603_1608Metric,C25804
+VL6180XV0NR/1,U1,VL6180,C2688732
+10K,R3,R_Array_Convex_4x0603,C29718
+10uF,"C1,C2",C_0805_2012Metric,C440198
+Blue,"D1,D2,D3,D4,D5",LED_0603_1608Metric,C72041
+Battery Charge Bypass,J1,PinHeader_1x02_P2.54mm_Vertical,
+~,J6,Tape_Measure_Antenna,
+Battery Charge Bypass,J2,MOLEX_504050-0291,
+0433BM15A0001,U3,Balun_Johanson_0896BM15A0001,
+~,J7,Burn_Wire,
+Conn_Coaxial,J5,SMA_Amphenol_901-144_Vertical,
+Burn_Wire,J3,MOLEX_504050-0291,
+TestPoint,TP1,MountingHole_2.7mm_M2.5_Pad,
+TestPoint,TP3,MountingHole_2.7mm_M2.5_Pad,
+TestPoint,TP7,MountingHole_2.7mm_M2.5_Pad,
+TestPoint,TP2,MountingHole_2.7mm_M2.5_Pad,
+TestPoint,TP5,MountingHole_2.7mm_M2.5_Pad,
+TestPoint,TP6,MountingHole_2.7mm_M2.5_Pad,
+TestPoint,TP4,MountingHole_2.7mm_M2.5_Pad,
