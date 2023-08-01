@@ -6,4 +6,5 @@
   (lib (name "PE4259")(type "KiCad")(uri "${KIPRJMOD}/symbols/2023-07-17_07-56-43.kicad_sym")(options "")(descr ""))
   (lib (name "74LVC1G04W5-7")(type "KiCad")(uri "${KIPRJMOD}/symbols/2023-07-17_08-09-01.kicad_sym")(options "")(descr ""))
   (lib (name "TRF37A73IDSGR")(type "KiCad")(uri "${KIPRJMOD}/symbols/2023-07-19_05-27-32.kicad_sym")(options "")(descr ""))
+  (lib (name "ADL5536")(type "KiCad")(uri "${KIPRJMOD}/symbols/ADL5536.kicad_sym")(options "")(descr ""))
 )
