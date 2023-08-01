@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LSM6DSOTR")(type "KiCad")(uri "${KIPRJMOD}/symbols/2023-07-13_21-44-47.kicad_sym")(options "")(descr ""))
+  (lib (name "LSM303AGTR")(type "KiCad")(uri "${KIPRJMOD}/symbols/2023-07-13_21-45-07.kicad_sym")(options "")(descr ""))
+  (lib (name "SX1276")(type "KiCad")(uri "${KIPRJMOD}/symbols/2023-07-17_03-58-47.kicad_sym")(options "")(descr ""))
+  (lib (name "PE4259")(type "KiCad")(uri "${KIPRJMOD}/symbols/2023-07-17_07-56-43.kicad_sym")(options "")(descr ""))
+  (lib (name "74LVC1G04W5-7")(type "KiCad")(uri "${KIPRJMOD}/symbols/2023-07-17_08-09-01.kicad_sym")(options "")(descr ""))
+  (lib (name "TRF37A73IDSGR")(type "KiCad")(uri "${KIPRJMOD}/symbols/2023-07-19_05-27-32.kicad_sym")(options "")(descr ""))
+)
