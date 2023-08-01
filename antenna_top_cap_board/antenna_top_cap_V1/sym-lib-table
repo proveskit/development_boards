@@ -7,4 +7,5 @@
   (lib (name "Adafruit VL6180 Time of Flight Sensor-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Extra Libraries Folder/Adafruit VL6180 Time of Flight Sensor-eagle-import.kicad_sym")(options "")(descr ""))
   (lib (name "Antenna")(type "KiCad")(uri "${KIPRJMOD}/symbols/PCT2075DP_118.kicad_sym")(options "")(descr ""))
   (lib (name "PCT2075DP_118")(type "KiCad")(uri "${KIPRJMOD}/symbols/PCT2075DP_118.kicad_sym")(options "")(descr ""))
+  (lib (name "BM04B-SRSS-TB_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/symbols/BM04B-SRSS-TB_LF__SN_.kicad_sym")(options "")(descr ""))
 )
