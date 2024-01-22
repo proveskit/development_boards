@@ -1,0 +1,17 @@
+Comment,Designator,Footprint,LCSC
+ferrite,FB1,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C1002
+0.1uF,"C10,C11,C9",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C14663
+1.0uF,C1,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C15849
+I2C1 Breakout,"J8,J9",JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical,C160390
+22pF,C12,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C1653
+10uF,"C2,C3,C4,C5,C6,C7,C8",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C19702
+10K,"R5,R6,R7",R_0603_1608Metric,C25804
+24MHz 3.3V Oscillator,OSC1,Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm_HandSoldering,C295524
+TLV74328,U3,SOT-23-5_HandSoldering,C408971
+TLV74315,U2,SOT-23-5_HandSoldering,C469895
+FC Connector,J7,Molex_Pico-Lock_504050-1291_1x12-1MP_P1.50mm_Horizontal,C563982
+CAMERA_OV2640,X1,Molex_502244-2430_1x24-1MP_P0.5mm_Horizontal,C587894
+IR26-21C_L110_TR8,D1,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C72038
+Conn_01x01,J1,TestPoint_Pad_D1.5mm,
+Jumper_2_Open,JP1,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,
+I2C1 Breakout,J10,PinHeader_1x04_P2.54mm_Vertical,
