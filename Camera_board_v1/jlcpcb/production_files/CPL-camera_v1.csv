@@ -13,11 +13,13 @@ C11,0.1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,152.04,-132.2675,90.0,top
 C12,22pF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,159.7,-132.26,90.0,top
 D1,IR26-21C_L110_TR8,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,165.275,-109.06,180.0,top
 FB1,ferrite,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,150.51,-132.2675,-90.0,top
+J2,Conn_01x05,PinHeader_1x05_P2.54mm_Vertical,158.765,-105.66,90.0,top
 J7,FC Connector,Molex_Pico-Lock_504050-1291_1x12-1MP_P1.50mm_Horizontal,164.305,-121.915,90.0,top
 J8,I2C1 Breakout,JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical,157.725,-113.3575,90.0,top
-J9,I2C1 Breakout,JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical,152.325,-113.3575,90.0,top
-J10,I2C1 Breakout,PinHeader_1x04_P2.54mm_Vertical,157.49,-105.65,90.0,top
 OSC1,24MHz 3.3V Oscillator,Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm_HandSoldering,157.41,-128.07,180.0,top
+Q1,BSS83P,SOT-23,151.4675,-110.91,0.0,top
+Q2,BSS138,SOT-23,151.4675,-114.45,0.0,top
+R1,10K,R_0603_1608Metric,154.3,-112.58,-90.0,top
 R5,10K,R_0603_1608Metric,161.995,-109.05,0.0,top
 R6,10K,R_0603_1608Metric,153.57,-132.43,-90.0,top
 R7,10K,R_0603_1608Metric,155.11,-132.435,90.0,top

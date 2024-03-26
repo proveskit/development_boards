@@ -56,7 +56,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|157920000|105650000|2a744ff6-ffb3-4aa5-829b-da723ac14011|81d48b99-be22-40c8-8cf2-2e246d40cd3d"
+      ],
       "meta": {
         "version": 2
       },
@@ -116,7 +118,7 @@
         "max_error": 0.005,
         "min_clearance": 0.127,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.0,
+        "min_copper_edge_clearance": 0.19999999999999998,
         "min_hole_clearance": 0.254,
         "min_hole_to_hole": 0.5,
         "min_microvia_diameter": 0.19999999999999998,
@@ -432,7 +434,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "mux_driver_v1.kicad_pro",
+    "filename": "camera_v1.kicad_pro",
     "version": 1
   },
   "net_settings": {
