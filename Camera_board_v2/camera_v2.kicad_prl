@@ -65,11 +65,11 @@
       36,
       37
     ],
-    "visible_layers": "7fdfcff_80000007",
+    "visible_layers": "7fdfcff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "camera_v1.kicad_prl",
+    "filename": "camera_v2.kicad_prl",
     "version": 3
   },
   "project": {
