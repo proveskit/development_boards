@@ -1,0 +1,133 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "1c98f4aa-36fd-4990-9a5f-358284de049b")
+	(paper "A4")
+	(title_block
+		(title "Flat-Sat Development Board")
+		(rev "V1")
+		(company "Blue Dot Foundation")
+		(comment 1 "By: Nicole Maggard")
+	)
+	(lib_symbols)
+	(sheet
+		(at 82.55 90.17)
+		(size 29.21 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2e4a0b26-45f0-4567-954a-2c6d1f0924bf")
+		(property "Sheetname" "Flight Computer Stuff"
+			(at 82.55 89.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "embedded schematics/Flight_Computer.kicad_sch"
+			(at 82.55 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "flat_sat_dev_board"
+				(path "/1c98f4aa-36fd-4990-9a5f-358284de049b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 209.55 90.17)
+		(size 33.02 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "325bc47b-cac6-460f-a814-99f052ae04c8")
+		(property "Sheetname" "Payload Stuff"
+			(at 209.55 89.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "embedded schematics/payload.kicad_sch"
+			(at 209.55 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "flat_sat_dev_board"
+				(path "/1c98f4aa-36fd-4990-9a5f-358284de049b"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 143.51 90.17)
+		(size 31.75 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4a5c3a46-ae0d-443f-ab5a-444333265386")
+		(property "Sheetname" "Electrical Power System Stuff"
+			(at 143.51 89.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "embedded schematics/EPS.kicad_sch"
+			(at 143.51 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "flat_sat_dev_board"
+				(path "/1c98f4aa-36fd-4990-9a5f-358284de049b"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
