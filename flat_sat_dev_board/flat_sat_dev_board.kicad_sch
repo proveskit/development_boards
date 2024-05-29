@@ -12,8 +12,8 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 82.55 90.17)
-		(size 29.21 16.51)
+		(at 38.1 82.55)
+		(size 48.26 36.83)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -24,16 +24,16 @@
 		)
 		(uuid "2e4a0b26-45f0-4567-954a-2c6d1f0924bf")
 		(property "Sheetname" "Flight Computer Stuff"
-			(at 82.55 89.4584 0)
+			(at 38.1 81.4734 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 2 2)
 				)
 				(justify left bottom)
 			)
 		)
 		(property "Sheetfile" "embedded schematics/Flight_Computer.kicad_sch"
-			(at 82.55 107.2646 0)
+			(at 38.1 119.9646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50,8 +50,8 @@
 		)
 	)
 	(sheet
-		(at 209.55 90.17)
-		(size 33.02 17.78)
+		(at 158.75 82.55)
+		(size 58.42 36.83)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -62,16 +62,16 @@
 		)
 		(uuid "325bc47b-cac6-460f-a814-99f052ae04c8")
 		(property "Sheetname" "Payload Stuff"
-			(at 209.55 89.4584 0)
+			(at 158.75 81.4734 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 2 2)
 				)
 				(justify left bottom)
 			)
 		)
 		(property "Sheetfile" "embedded schematics/payload.kicad_sch"
-			(at 209.55 108.5346 0)
+			(at 158.75 119.9646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -88,8 +88,8 @@
 		)
 	)
 	(sheet
-		(at 143.51 90.17)
-		(size 31.75 17.78)
+		(at 96.52 82.55)
+		(size 53.34 36.83)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -100,16 +100,16 @@
 		)
 		(uuid "4a5c3a46-ae0d-443f-ab5a-444333265386")
 		(property "Sheetname" "Electrical Power System Stuff"
-			(at 143.51 89.4584 0)
+			(at 96.52 81.4734 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 2 2)
 				)
 				(justify left bottom)
 			)
 		)
 		(property "Sheetfile" "embedded schematics/EPS.kicad_sch"
-			(at 143.51 108.5346 0)
+			(at 96.52 119.9646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
