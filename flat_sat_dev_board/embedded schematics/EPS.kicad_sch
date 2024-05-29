@@ -15914,6 +15914,12 @@
 		(uuid "25772bff-25dd-43c7-92b2-ce20b37d05f2")
 	)
 	(junction
+		(at 52.07 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "28d90fab-84fc-4328-ad8a-a2cde0d6a7f9")
+	)
+	(junction
 		(at 133.35 350.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -16094,12 +16100,6 @@
 		(uuid "4fe8a117-e3ff-48f7-978e-94cceafa3595")
 	)
 	(junction
-		(at 52.07 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5267b00a-617d-433a-8129-ecb69dfaa042")
-	)
-	(junction
 		(at 214.63 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -16254,6 +16254,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "72f125ff-31fe-406d-9d51-89a5152af0c4")
+	)
+	(junction
+		(at 52.07 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "731f41ee-fae4-4cb0-8590-a540189613c8")
 	)
 	(junction
 		(at 427.99 86.36)
@@ -16662,12 +16668,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dcc871e6-d069-4983-8627-6b8304c477fa")
-	)
-	(junction
-		(at 52.07 48.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dd798104-587f-4aa8-8ee9-e2684c3662b2")
 	)
 	(junction
 		(at 549.91 152.4)
@@ -17269,16 +17269,6 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 59.69) (xy 52.07 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0cc485af-0f99-4ef6-8e63-37ec984c33bd")
-	)
-	(wire
-		(pts
 			(xy 360.68 46.99) (xy 360.68 44.45)
 		)
 		(stroke
@@ -17396,6 +17386,16 @@
 			(type default)
 		)
 		(uuid "10551cd1-0de2-43fd-b49b-5ac51f13983f")
+	)
+	(wire
+		(pts
+			(xy 68.58 62.23) (xy 54.61 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10d64953-c02e-4e6f-a29b-83e78e919793")
 	)
 	(wire
 		(pts
@@ -17899,6 +17899,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 48.26) (xy 59.69 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20a1e6ab-8c41-409d-ad35-c62e8262256a")
+	)
+	(wire
+		(pts
 			(xy 251.46 35.56) (xy 256.54 35.56)
 		)
 		(stroke
@@ -18186,16 +18196,6 @@
 			(type default)
 		)
 		(uuid "29ad0765-610c-4a6d-832b-05dff8092def")
-	)
-	(wire
-		(pts
-			(xy 52.07 48.26) (xy 52.07 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "29c51dbc-45f6-4b6e-ba1a-1f126d185a1f")
 	)
 	(wire
 		(pts
@@ -18689,7 +18689,7 @@
 	)
 	(polyline
 		(pts
-			(xy 537.21 54.61) (xy 537.21 20.32)
+			(xy 539.75 54.61) (xy 539.75 20.32)
 		)
 		(stroke
 			(width 0)
@@ -19339,16 +19339,6 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 62.23) (xy 68.58 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4d8288c6-72a1-486a-9ce9-ea5a00b3672c")
-	)
-	(wire
-		(pts
 			(xy 158.75 387.35) (xy 158.75 382.27)
 		)
 		(stroke
@@ -19489,7 +19479,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 73.66) (xy 52.07 77.47)
+			(xy 52.07 78.74) (xy 52.07 77.47)
 		)
 		(stroke
 			(width 0)
@@ -19606,16 +19596,6 @@
 			(type default)
 		)
 		(uuid "57a89e47-ac63-4f7a-ae58-6fdc4037cbf3")
-	)
-	(wire
-		(pts
-			(xy 52.07 48.26) (xy 59.69 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "583669dd-9d65-4e18-9381-536eef4efce5")
 	)
 	(wire
 		(pts
@@ -19889,6 +19869,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 63.5) (xy 52.07 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5eab0aef-bcf3-44d3-99f4-75eb7b32fb12")
+	)
+	(wire
+		(pts
 			(xy 204.47 40.64) (xy 214.63 40.64)
 		)
 		(stroke
@@ -19969,7 +19959,7 @@
 	)
 	(polyline
 		(pts
-			(xy 537.21 20.32) (xy 528.32 20.32)
+			(xy 539.75 20.32) (xy 528.32 20.32)
 		)
 		(stroke
 			(width 0)
@@ -22239,6 +22229,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 63.5) (xy 52.07 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b025030c-958b-4646-904f-602cc4571fa5")
+	)
+	(wire
+		(pts
 			(xy 99.06 367.03) (xy 99.06 340.36)
 		)
 		(stroke
@@ -22889,6 +22889,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 62.23) (xy 54.61 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c89fdfc3-83f7-48f9-b8af-391461f09488")
+	)
+	(wire
+		(pts
 			(xy 133.35 382.27) (xy 133.35 377.19)
 		)
 		(stroke
@@ -23089,7 +23099,7 @@
 	)
 	(polyline
 		(pts
-			(xy 537.21 54.61) (xy 528.32 54.61)
+			(xy 539.75 54.61) (xy 528.32 54.61)
 		)
 		(stroke
 			(width 0)
@@ -24169,16 +24179,6 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 62.23) (xy 52.07 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f69eac34-9321-474f-a248-67c5c0504dcf")
-	)
-	(wire
-		(pts
 			(xy 454.66 276.86) (xy 436.88 276.86)
 		)
 		(stroke
@@ -24514,7 +24514,7 @@
 	)
 	(text "\"One Shot\" Regulator Reset"
 		(exclude_from_sim no)
-		(at 500.38 31.75 0)
+		(at 479.298 31.75 0)
 		(effects
 			(font
 				(size 2.159 2.159)
@@ -30719,7 +30719,7 @@
 		(dnp no)
 		(uuid "2037e644-1e2c-46b3-975c-fcbe29392dff")
 		(property "Reference" "C92"
-			(at 534.67 46.99 90)
+			(at 535.94 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30727,7 +30727,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 534.67 49.53 90)
+			(at 536.448 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36954,7 +36954,7 @@
 	)
 	(symbol
 		(lib_id "mainboard:R-US_R0603")
-		(at 52.07 68.58 90)
+		(at 52.07 73.66 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36962,7 +36962,7 @@
 		(dnp no)
 		(uuid "64a03508-a278-43f6-ba9b-ffc1cd25fb34")
 		(property "Reference" "R35"
-			(at 43.18 69.342 90)
+			(at 43.18 74.422 90)
 			(effects
 				(font
 					(size 1.4986 1.4986)
@@ -36971,7 +36971,7 @@
 			)
 		)
 		(property "Value" "94k"
-			(at 45.72 72.136 90)
+			(at 45.72 77.216 90)
 			(effects
 				(font
 					(size 1.4986 1.4986)
@@ -36980,7 +36980,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 52.07 68.58 0)
+			(at 52.07 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36989,7 +36989,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 52.07 68.58 0)
+			(at 52.07 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36998,7 +36998,7 @@
 			)
 		)
 		(property "Description" "787K 0603"
-			(at 50.8 68.58 0)
+			(at 50.8 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38800,81 +38800,6 @@
 			(project "flat_sat_dev_board"
 				(path "/1c98f4aa-36fd-4990-9a5f-358284de049b/4a5c3a46-ae0d-443f-ab5a-444333265386"
 					(reference "#PWR083")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "mainboard:R-US_R0603")
-		(at 52.07 54.61 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "77bc7b10-25d8-4d45-9bea-9355c534d448")
-		(property "Reference" "R34"
-			(at 54.356 61.722 0)
-			(effects
-				(font
-					(size 1.4986 1.4986)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "200k"
-			(at 56.896 61.722 0)
-			(effects
-				(font
-					(size 1.4986 1.4986)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 52.07 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 52.07 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "787K 0603"
-			(at 53.34 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "31553cf7-d65a-426e-931e-8cc0a724b65b")
-		)
-		(pin "2"
-			(uuid "ec8f5561-deb1-4c34-b4f0-62fc2de51a50")
-		)
-		(instances
-			(project "flat_sat_dev_board"
-				(path "/1c98f4aa-36fd-4990-9a5f-358284de049b/4a5c3a46-ae0d-443f-ab5a-444333265386"
-					(reference "R34")
-					(unit 1)
-				)
-			)
-			(project "Battery_Board_V3a"
-				(path "/72946c1b-39de-434d-93c8-4c1df6a46ed0"
-					(reference "R43")
 					(unit 1)
 				)
 			)
@@ -41274,7 +41199,7 @@
 		(dnp no)
 		(uuid "8cae6667-7488-420c-9992-fed28911074f")
 		(property "Reference" "R85"
-			(at 528.32 45.72 0)
+			(at 525.78 45.974 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41560,6 +41485,76 @@
 			(project "Battery_Board_V3a"
 				(path "/72946c1b-39de-434d-93c8-4c1df6a46ed0"
 					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 52.07 52.07 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8e8b09e1-8202-4299-8172-58ad8e3f1902")
+		(property "Reference" "R1034"
+			(at 53.34 51.054 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100K"
+			(at 53.7972 53.213 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 51.054 52.324 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 52.07 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "200K 0603"
+			(at 53.7972 48.3616 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d09945e6-1f44-4379-a507-0c90980b1785")
+		)
+		(pin "2"
+			(uuid "35faacb8-cfa9-48a9-be4a-1aad1b68a68c")
+		)
+		(instances
+			(project "flat_sat_dev_board"
+				(path "/1c98f4aa-36fd-4990-9a5f-358284de049b/4a5c3a46-ae0d-443f-ab5a-444333265386"
+					(reference "R1034")
 					(unit 1)
 				)
 			)
@@ -52690,6 +52685,76 @@
 			(project "Battery_Board_V3a"
 				(path "/72946c1b-39de-434d-93c8-4c1df6a46ed0"
 					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 52.07 59.69 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f25c6e3c-9e73-4c0c-bc84-708868d7c363")
+		(property "Reference" "R1035"
+			(at 53.34 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100K"
+			(at 53.34 60.452 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 51.054 59.944 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 52.07 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "200K 0603"
+			(at 53.7972 55.9816 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "710a9c4d-2b0b-4f1d-8a9f-3fc5dd64b269")
+		)
+		(pin "2"
+			(uuid "8dc02450-4b3c-4d4c-ade8-edd7107568fe")
+		)
+		(instances
+			(project "flat_sat_dev_board"
+				(path "/1c98f4aa-36fd-4990-9a5f-358284de049b/4a5c3a46-ae0d-443f-ab5a-444333265386"
+					(reference "R1035")
 					(unit 1)
 				)
 			)
