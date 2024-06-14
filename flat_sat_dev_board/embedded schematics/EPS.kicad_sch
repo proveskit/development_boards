@@ -11,6 +11,126 @@
 		(comment 1 "By: Nicole Maggard and Michael Pham")
 	)
 	(lib_symbols
+		(symbol "+3V3_1"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+3V3"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+3V3\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+3V3_1_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+3V3_1_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "1049:1049"
 			(pin_names
 				(offset 0.762)
@@ -15599,117 +15719,6 @@
 					(at 0 0 270)
 					(length 0) hide
 					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "solar-panel-side-Z-rescue:+3.3V-power"
-			(power)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "+3.3V-power"
-				(at 0 3.556 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "+3.3V-power_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "+3.3V-power_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0) hide
-					(name "+3V3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -34186,83 +34195,6 @@
 		)
 	)
 	(symbol
-		(lib_id "solar-panel-side-Z-rescue:+3.3V-power")
-		(at 420.37 148.59 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "428a716b-e255-467b-bf6e-c44abc4187e3")
-		(property "Reference" "#PWR0152"
-			(at 420.37 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 420.751 144.1958 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 420.37 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 420.37 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 420.37 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1a24a55f-6306-4d31-8d40-190e5d8c27a6")
-		)
-		(instances
-			(project "flat_sat_dev_board"
-				(path "/1c98f4aa-36fd-4990-9a5f-358284de049b/4a5c3a46-ae0d-443f-ab5a-444333265386"
-					(reference "#PWR0152")
-					(unit 1)
-				)
-			)
-			(project "Battery_Board_V3a"
-				(path "/72946c1b-39de-434d-93c8-4c1df6a46ed0"
-					(reference "#PWR049")
-					(unit 1)
-				)
-			)
-			(project "solar-panel-side-Z"
-				(path "/b92e10d4-ef16-4e79-8a94-1185be6812fd"
-					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:Crystal_GND24")
 		(at 443.611 297.18 90)
 		(unit 1)
@@ -34576,6 +34508,73 @@
 			(project "flight_computer_dev_board_rfm98pw"
 				(path "/c64c0d72-a9f6-4f3a-891e-1f647558f538"
 					(reference "#+3V023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "+3V3_1")
+		(lib_id "power:+3V3")
+		(at 238.76 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "46e33065-efe9-4b8d-8995-334270dde2ce")
+		(property "Reference" "#PWR078"
+			(at 238.76 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 238.76 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 238.76 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 238.76 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 238.76 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f48b8a78-58a1-4e80-9402-20f8655105a8")
+		)
+		(instances
+			(project "flat_sat_dev_board"
+				(path "/1c98f4aa-36fd-4990-9a5f-358284de049b/4a5c3a46-ae0d-443f-ab5a-444333265386"
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -36121,83 +36120,6 @@
 			(project "Battery_Board_V3a"
 				(path "/72946c1b-39de-434d-93c8-4c1df6a46ed0"
 					(reference "#PWR096")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "solar-panel-side-Z-rescue:+3.3V-power")
-		(at 345.44 132.08 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "59f3c56f-c89e-4d87-acd7-dca1d3010de2")
-		(property "Reference" "#PWR0137"
-			(at 345.44 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 345.821 127.6858 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 345.44 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 345.44 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 345.44 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9f1ef9c6-adcf-43c7-9bb0-39c909f29681")
-		)
-		(instances
-			(project "flat_sat_dev_board"
-				(path "/1c98f4aa-36fd-4990-9a5f-358284de049b/4a5c3a46-ae0d-443f-ab5a-444333265386"
-					(reference "#PWR0137")
-					(unit 1)
-				)
-			)
-			(project "Battery_Board_V3a"
-				(path "/72946c1b-39de-434d-93c8-4c1df6a46ed0"
-					(reference "#PWR051")
-					(unit 1)
-				)
-			)
-			(project "solar-panel-side-Z"
-				(path "/b92e10d4-ef16-4e79-8a94-1185be6812fd"
-					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -38806,6 +38728,73 @@
 		)
 	)
 	(symbol
+		(lib_name "+3V3_1")
+		(lib_id "power:+3V3")
+		(at 396.24 154.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "779ad443-7367-4594-86f1-331057b9ab60")
+		(property "Reference" "#PWR086"
+			(at 396.24 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 396.24 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 396.24 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 396.24 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 396.24 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ff8fa4c7-535a-41a0-8c9f-c941a2ac81c8")
+		)
+		(instances
+			(project "flat_sat_dev_board"
+				(path "/1c98f4aa-36fd-4990-9a5f-358284de049b/4a5c3a46-ae0d-443f-ab5a-444333265386"
+					(reference "#PWR086")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 51.054 294.132 0)
 		(unit 1)
@@ -39593,6 +39582,73 @@
 			(project "flat_sat_dev_board"
 				(path "/1c98f4aa-36fd-4990-9a5f-358284de049b/4a5c3a46-ae0d-443f-ab5a-444333265386"
 					(reference "#PWR0114")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "+3V3_1")
+		(lib_id "power:+3V3")
+		(at 345.44 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7f76c314-d6c4-42ce-b7ce-28d7e2f768ec")
+		(property "Reference" "#PWR066"
+			(at 345.44 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 345.44 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 345.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 345.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 345.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "83ca8b91-dccb-4904-942d-317693712abd")
+		)
+		(instances
+			(project "flat_sat_dev_board"
+				(path "/1c98f4aa-36fd-4990-9a5f-358284de049b/4a5c3a46-ae0d-443f-ab5a-444333265386"
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -42601,6 +42657,73 @@
 		)
 	)
 	(symbol
+		(lib_name "+3V3_1")
+		(lib_id "power:+3V3")
+		(at 420.37 148.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9a080696-cbf0-4343-8175-36d11576dcad")
+		(property "Reference" "#PWR082"
+			(at 420.37 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 420.37 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 420.37 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 420.37 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 420.37 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8a61b867-9e74-4e45-8463-c94f1a282f68")
+		)
+		(instances
+			(project "flat_sat_dev_board"
+				(path "/1c98f4aa-36fd-4990-9a5f-358284de049b/4a5c3a46-ae0d-443f-ab5a-444333265386"
+					(reference "#PWR082")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:FerriteBead")
 		(at 345.44 135.89 180)
 		(unit 1)
@@ -44774,83 +44897,6 @@
 		)
 	)
 	(symbol
-		(lib_id "solar-panel-side-Z-rescue:+3.3V-power")
-		(at 396.24 154.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ae908726-fba8-4cc0-b86f-50de287d32ac")
-		(property "Reference" "#PWR0148"
-			(at 396.24 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 396.621 150.5458 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 396.24 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 396.24 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 396.24 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "65b740b5-1989-4a57-a126-958e17219bd3")
-		)
-		(instances
-			(project "flat_sat_dev_board"
-				(path "/1c98f4aa-36fd-4990-9a5f-358284de049b/4a5c3a46-ae0d-443f-ab5a-444333265386"
-					(reference "#PWR0148")
-					(unit 1)
-				)
-			)
-			(project "Battery_Board_V3a"
-				(path "/72946c1b-39de-434d-93c8-4c1df6a46ed0"
-					(reference "#PWR039")
-					(unit 1)
-				)
-			)
-			(project "solar-panel-side-Z"
-				(path "/b92e10d4-ef16-4e79-8a94-1185be6812fd"
-					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:L")
 		(at 118.11 59.69 90)
 		(unit 1)
@@ -46761,83 +46807,6 @@
 			(project "Battery_Board_V3a"
 				(path "/72946c1b-39de-434d-93c8-4c1df6a46ed0"
 					(reference "Q11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "solar-panel-side-Z-rescue:+3.3V-power")
-		(at 238.76 138.43 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "befd647f-b98e-4e82-ac9a-b1425200076c")
-		(property "Reference" "#PWR0118"
-			(at 238.76 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 239.141 134.0358 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 238.76 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 238.76 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 238.76 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1b30ab85-8edd-418c-9656-2c72789c4213")
-		)
-		(instances
-			(project "flat_sat_dev_board"
-				(path "/1c98f4aa-36fd-4990-9a5f-358284de049b/4a5c3a46-ae0d-443f-ab5a-444333265386"
-					(reference "#PWR0118")
-					(unit 1)
-				)
-			)
-			(project "Battery_Board_V3a"
-				(path "/72946c1b-39de-434d-93c8-4c1df6a46ed0"
-					(reference "#PWR098")
-					(unit 1)
-				)
-			)
-			(project "solar-panel-side-Z"
-				(path "/b92e10d4-ef16-4e79-8a94-1185be6812fd"
-					(reference "#PWR019")
 					(unit 1)
 				)
 			)
