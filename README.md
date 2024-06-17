@@ -6,17 +6,11 @@ This board is intended to be a "FlatSat" stand in for all of the core hardware o
 
 Find a link to the documentation for that [here](https://docs.proveskit.space/en/latest/core_documentation/hardware/flatsat_dev_board/)! 
 
-## antenna_top_cap
-🚧UNDER CONSTRUCTION🚧
-This antenna top cap development board is intended to pair with the fligth controller development board, as this contains no microcontroller or microprocessor
-## flight_controller_dev_board
-🚧UNDER CONSTRUCTION🚧
-This development board is intended to be a board that can be placed internally of the satellite and can even operate as a communications board for ground stations. With an included ethernet port, the future intentions for the board is to allow it to communicate over TCP with other satellite boards, and to allow the ground station application to upload downlinked data to the internet.
-## battery_board_V3
-🚧UNDER CONSTRUCTION🚧
-## camera_dev_boards
-🚧UNDER CONSTRUCTION🚧
-## solar-panel-camera
-🚧UNDER CONSTRUCTION🚧
-## internal_flight_computer_v2
-🚧UNDER CONSTRUCTION🚧
+## Camera_board_v2
+This board is currently being developed for the Irvington High School Girls in STEM Club team, who are looking to fly a camera on Pleiades - Orpheus. 
+
+## Mux_driver_board_v1
+This board is a breakout hosting both the TCA I2C Multiplexer and an I2C based LED driver. It is intended to be mounted as a daughter card on another PCB and used to provide access to additional protected I2C buses. 
+
+## FC_Advanced_Carrier 
+This is the initial design for a board that is able to accept an NVIDIA Jetson Nano SoM. 
