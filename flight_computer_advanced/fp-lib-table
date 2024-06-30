@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "pocketbeagle")(type "KiCad")(uri "${KIPRJMOD}/pocketbeagle.pretty")(options "")(descr ""))
+  (lib (name "internal_fc")(type "KiCad")(uri "${KIPRJMOD}/internal_fc.pretty")(options "")(descr ""))
+  (lib (name "oresat-c3-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/oresat-c3-eagle-import.pretty")(options "")(descr ""))
+)
