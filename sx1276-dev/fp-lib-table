@@ -1,4 +1,11 @@
 (fp_lib_table
   (version 7)
   (lib (name "PE4259")(type "KiCad")(uri "C:/Users/cisne/OneDrive - Cal Poly Pomona/Kicad_projects/libraries/4259_63/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "SX1276IMLTRT")(type "KiCad")(uri "C:/Users/cisne/OneDrive - Cal Poly Pomona/Kicad_projects/libraries/SX1276IMLTRT/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "NC7SZ04")(type "KiCad")(uri "C:/Users/cisne/OneDrive - Cal Poly Pomona/Kicad_projects/libraries/NC7SZ04P5X/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "74LVC1G04W5-7")(type "KiCad")(uri "C:/Users/cisne/OneDrive - Cal Poly Pomona/Kicad_projects/libraries/74LVC1G04W5_7/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "ul_TQP3M9036")(type "KiCad")(uri "C:/Users/cisne/OneDrive - Cal Poly Pomona/Kicad_projects/libraries/ul_TQP3M9036/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "NX2016SA_32M_EXS00A_CS06465")(type "KiCad")(uri "C:/Users/cisne/OneDrive - Cal Poly Pomona/Kicad_projects/libraries/NX2016SA_32M_EXS00A_CS06465/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "GRF5504")(type "KiCad")(uri "C:/Users/cisne/Downloads/ul_GRF5504/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "GRF5112")(type "KiCad")(uri "C:/Users/cisne/OneDrive - Cal Poly Pomona/Kicad_projects/libraries/GRF5112/footprints.pretty")(options "")(descr ""))
 )
