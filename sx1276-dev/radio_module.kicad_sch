@@ -9499,9 +9499,9 @@
 		)
 		(uuid "26ddf275-2fad-4f02-9738-d4a29a828517")
 	)
-	(text "RF Switch 433MHz"
+	(text "RF Switch 433MHz and SMA Connector\n"
 		(exclude_from_sim no)
-		(at 700.024 89.916 0)
+		(at 723.138 88.646 0)
 		(effects
 			(font
 				(size 6.35 6.35)
@@ -9683,9 +9683,9 @@
 		)
 		(uuid "9ba2b88b-d956-4346-8599-48561b9676cf")
 	)
-	(text "RF Switch 915MHz"
+	(text "RF Switch 915MHz and SMA connector"
 		(exclude_from_sim no)
-		(at 708.406 378.206 0)
+		(at 725.932 376.682 0)
 		(effects
 			(font
 				(size 6.35 6.35)
