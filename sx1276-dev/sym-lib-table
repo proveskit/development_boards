@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PE4259")(type "KiCad")(uri "C:/Users/cisne/OneDrive - Cal Poly Pomona/Kicad_projects/libraries/4259_63/KiCADv6/2024-06-18_23-47-37.kicad_sym")(options "")(descr ""))
+  (lib (name "SX1276IMLTRT")(type "KiCad")(uri "C:/Users/cisne/OneDrive - Cal Poly Pomona/Kicad_projects/libraries/SX1276IMLTRT/KiCADv6/2024-06-24_19-28-40.kicad_sym")(options "")(descr ""))
+  (lib (name "NC7SZ04")(type "KiCad")(uri "C:/Users/cisne/OneDrive - Cal Poly Pomona/Kicad_projects/libraries/NC7SZ04P5X/KiCADv6/2024-07-04_21-29-45.kicad_sym")(options "")(descr ""))
+  (lib (name "74LVC1G04W5_7")(type "KiCad")(uri "C:/Users/cisne/OneDrive - Cal Poly Pomona/Kicad_projects/libraries/74LVC1G04W5_7/KiCADv6/2024-07-04_21-45-19.kicad_sym")(options "")(descr ""))
+  (lib (name "TQP3M9036")(type "KiCad")(uri "C:/Users/cisne/OneDrive - Cal Poly Pomona/Kicad_projects/libraries/TQP3M9036/TQP3M9036.kicad_sym")(options "")(descr ""))
+  (lib (name "ul_TQP3M9036")(type "KiCad")(uri "C:/Users/cisne/OneDrive - Cal Poly Pomona/Kicad_projects/libraries/ul_TQP3M9036/KiCADv6/2024-07-09_18-31-18.kicad_sym")(options "")(descr ""))
+  (lib (name "NX2016SA-32M-EXS00A-CS06465")(type "KiCad")(uri "C:/Users/cisne/OneDrive - Cal Poly Pomona/Kicad_projects/libraries/NX2016SA_32M_EXS00A_CS06465/KiCADv6/2024-07-09_19-06-57.kicad_sym")(options "")(descr ""))
+  (lib (name "GRF5112")(type "KiCad")(uri "C:/Users/cisne/OneDrive - Cal Poly Pomona/Kicad_projects/libraries/GRF5112/GRF5112.kicad_sym")(options "")(descr ""))
+  (lib (name "GRF5504")(type "KiCad")(uri "C:/Users/cisne/Downloads/ul_GRF5504/KiCADv6/2024-07-11_22-28-03.kicad_sym")(options "")(descr ""))
+)
