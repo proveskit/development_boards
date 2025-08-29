@@ -59,7 +59,176 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "clearance|104800360|137823640|b7e02d5a-d9fd-4ef7-b904-e589ddf60753|e511be63-debe-4f63-bdd0-e4de09c31345",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|105200360|142048640|81c8b864-6705-4af0-b284-d2e6df2a55de|f8ac6c51-892d-47eb-a7a5-db4e6781e194",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|105450360|137823640|e511be63-debe-4f63-bdd0-e4de09c31345|1eeaa60a-8122-45a9-920e-b7e841199e88",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|105850360|142048640|d5e6b1ec-aabf-4840-a65e-1e4c3de08720|81c8b864-6705-4af0-b284-d2e6df2a55de",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|106100360|137823640|1eeaa60a-8122-45a9-920e-b7e841199e88|39500dc0-77a2-464d-b362-2e8d5c6c256f",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|106500360|142048640|515c09a3-6c64-4034-94cf-42121e881b01|d5e6b1ec-aabf-4840-a65e-1e4c3de08720",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|109377500|100600000|de8e568e-d2ab-4694-8113-ff06f2c10a46|b2985907-5ea4-465f-a8b8-cbdd978543bb",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|129242500|130900000|3721f069-1cd8-4814-b2a1-223dc2aeb6ad|6aaddc17-901e-4b05-993c-e1907fb0c6c2",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|133150000|90112500|ab8a2334-a7c9-48de-bd67-ca7b8cda0d03|5849f787-aa24-4038-b36b-c444156fd779",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|133550000|94337500|c5c574e5-6f04-4989-a58e-8d9cc74388fc|c0767e61-7f24-4152-adbf-9ed835d26933",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|133800000|90112500|5849f787-aa24-4038-b36b-c444156fd779|f2d4a6dd-82c0-41f9-a48e-8fa8a73d695b",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|134200000|94337500|7c999223-88af-4cae-b0e0-8218faa19c62|c5c574e5-6f04-4989-a58e-8d9cc74388fc",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|134450000|90112500|f2d4a6dd-82c0-41f9-a48e-8fa8a73d695b|130a6cc1-43e3-4ab2-a586-8f05dc3cad50",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|134850000|94337500|0162b38f-6cd9-4727-b0c3-a0931ff5c87b|7c999223-88af-4cae-b0e0-8218faa19c62",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|139650000|136200000|3db242fc-b2c5-492e-8e0c-9429015c3889|df113e0c-8ac4-4869-beb9-9dbc77ab3da5",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|140050000|140425000|5e2d3091-360e-48a5-b9f3-0f523e63de34|8ee0083b-6424-4dd6-ada7-746364bc0221",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|140300000|136200000|df113e0c-8ac4-4869-beb9-9dbc77ab3da5|3601c2eb-edea-4e65-af9f-bb615d2e8832",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|140700000|140425000|490eb2ce-bf7c-434b-a43b-d0b4d66dae75|5e2d3091-360e-48a5-b9f3-0f523e63de34",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|140950000|136200000|3601c2eb-edea-4e65-af9f-bb615d2e8832|ad282062-2161-45a7-9eae-547bed4dcb9f",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|141350000|140425000|45ede170-2736-49d9-b154-279cd8b35ac1|490eb2ce-bf7c-434b-a43b-d0b4d66dae75",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|145257500|99637500|76abcfa1-c43a-4289-b66e-de26c784935a|c74d9202-e1fe-4e39-aeb4-9a59343d614d",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|59622500|131537500|5f226cc8-878c-464e-8197-094c64170e40|06d35607-dc0c-47d6-bdd2-dd5535f49b79",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|62650000|95826720|025e2fda-f339-4450-a774-3a5939a01965|683ef5b7-77b7-483a-bd1b-8ddd50f7518b",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|63050000|91601720|e88d4720-c8b0-4a7a-9a21-fdc8c03a541c|94f58a33-6e71-4af5-a285-5f3742a984cd",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|63300000|95826720|683ef5b7-77b7-483a-bd1b-8ddd50f7518b|7f1ac54d-5ef7-4813-8dbf-40120e90c754",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|63700000|91601720|c2dd5338-770e-4c60-91b0-7e55699991a9|e88d4720-c8b0-4a7a-9a21-fdc8c03a541c",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|63950000|95826720|7f1ac54d-5ef7-4813-8dbf-40120e90c754|c6a2b135-f7b5-4b16-9d8b-e87341d6d984",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|64350000|91601720|85a6099c-091c-4dfe-86c2-44b88c4840f3|c2dd5338-770e-4c60-91b0-7e55699991a9",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|69650000|141062500|60701022-5b7a-4403-bbd1-9396314b127e|224e1cc3-44fb-41b7-8ae1-b647b89b7592",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|70050000|136837500|37c11fd6-a47f-4436-a58e-c82bc1159349|45667851-1274-4127-869b-86cb02e720a2",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|70300000|141062500|224e1cc3-44fb-41b7-8ae1-b647b89b7592|a68d00f5-5826-4fb8-a6d8-d73ab4388a5c",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|70700000|136837500|b07d5c26-f86a-4cf1-aeaa-1bf49230d734|37c11fd6-a47f-4436-a58e-c82bc1159349",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|70950000|141062500|a68d00f5-5826-4fb8-a6d8-d73ab4388a5c|c2e74cf8-9c96-48c1-b42a-6aa9573d2863",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|71350000|136837500|d116b1ac-8b10-4ffa-aad9-d065ac707911|b07d5c26-f86a-4cf1-aeaa-1bf49230d734",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|74377500|101126720|5bd2119d-2295-40c8-abc1-ee28c6b8ccb4|1dfd2a60-5722-4e11-b26f-76a90698a0f0",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|94392860|132523640|564d693c-cc9a-418f-9d9a-d293f4cecc3b|631fba5e-01a2-4572-a120-dcf65e651ee6",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|97650000|95300000|17e92bcc-6f52-4977-9160-2077c8d519df|4bbdca7e-9dde-442c-840b-d3b234800c0a",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|98050000|91075000|aa20cb3c-4f5d-46a5-9a08-79cd2ca5b2f0|60640282-0ce0-4147-8e40-7a80ecbdb743",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|98300000|95300000|4bbdca7e-9dde-442c-840b-d3b234800c0a|d9a7907a-a117-4c5f-8f2b-90c068eaefb1",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|98700000|91075000|b395f9da-ca77-4cf2-b78f-ec7e4c30eb76|aa20cb3c-4f5d-46a5-9a08-79cd2ca5b2f0",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|98950000|95300000|d9a7907a-a117-4c5f-8f2b-90c068eaefb1|e1ff16ef-d52d-4e9e-8201-cfbbe9b942fd",
+          "Pads on the Same component"
+        ],
+        [
+          "clearance|99350000|91075000|af7a8c59-8938-4ad8-9a59-ed76f8d9c61c|b395f9da-ca77-4cf2-b78f-ec7e4c30eb76",
+          "Pads on the Same component"
+        ]
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
