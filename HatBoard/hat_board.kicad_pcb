@@ -35299,6 +35299,28 @@
 		(uuid "6fdb09a5-4455-4391-9d01-72f76aa0efdb")
 	)
 	(zone
+		(net 2)
+		(net_name "GND")
+		(layer "F.Cu")
+		(uuid "0894b551-871c-4d65-b522-c8b45a4a5902")
+		(hatch edge 0.5)
+		(priority 2)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 50.5 67.5) (xy 50.5 166.5) (xy 157.5 166.5) (xy 156.5 67.5)
+			)
+		)
+	)
+	(zone
 		(net 0)
 		(net_name "")
 		(layers "F.Cu" "B.Cu" "In1.Cu" "In2.Cu")
