@@ -39683,41 +39683,6 @@
 		(net 0)
 		(net_name "")
 		(layers "F.Cu" "B.Cu" "In1.Cu" "In2.Cu")
-		(uuid "d4d1b18c-1d00-4677-a1ce-0784caeecef1")
-		(name "auto-placement-area-/Face Board5/")
-		(hatch none 0.5)
-		(connect_pads
-			(clearance 0)
-		)
-		(min_thickness 0.25)
-		(filled_areas_thickness no)
-		(keepout
-			(tracks allowed)
-			(vias allowed)
-			(pads allowed)
-			(copperpour allowed)
-			(footprints allowed)
-		)
-		(placement
-			(enabled yes)
-			(sheetname "/Face Board3/")
-		)
-		(fill
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-		)
-		(polygon
-			(pts
-				(xy 91.285 73.07) (xy 105.435 73.07) (xy 105.435 81.87) (xy 114.985 81.87) (xy 114.985 101.6) (xy 111.76 101.6)
-				(xy 111.76 112.645) (xy 98.805 112.645) (xy 98.805 109.935) (xy 92.98 109.935) (xy 92.98 80.745)
-				(xy 91.285 80.745)
-			)
-		)
-	)
-	(zone
-		(net 0)
-		(net_name "")
-		(layers "F.Cu" "B.Cu" "In1.Cu" "In2.Cu")
 		(uuid "9cb3ab25-0f04-4a1d-9850-bdd72da5a7f2")
 		(name "auto-placement-area-/Face Board5/")
 		(hatch none 0.5)
@@ -39746,6 +39711,41 @@
 				(xy 55.925 72.10172) (xy 70.075 72.10172) (xy 70.075 80.90172) (xy 79.625 80.90172) (xy 79.625 100.63172)
 				(xy 76.4 100.63172) (xy 76.4 111.67672) (xy 63.445 111.67672) (xy 63.445 108.96672) (xy 57.62 108.96672)
 				(xy 57.62 79.77672) (xy 55.925 79.77672)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "F.Cu" "B.Cu" "In1.Cu" "In2.Cu")
+		(uuid "d4d1b18c-1d00-4677-a1ce-0784caeecef1")
+		(name "auto-placement-area-/Face Board5/")
+		(hatch none 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled yes)
+			(sheetname "/Face Board3/")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 91.285 73.07) (xy 105.435 73.07) (xy 105.435 81.87) (xy 114.985 81.87) (xy 114.985 101.6) (xy 111.76 101.6)
+				(xy 111.76 112.645) (xy 98.805 112.645) (xy 98.805 109.935) (xy 92.98 109.935) (xy 92.98 80.745)
+				(xy 91.285 80.745)
 			)
 		)
 	)
