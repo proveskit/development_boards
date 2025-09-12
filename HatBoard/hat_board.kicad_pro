@@ -59,176 +59,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "clearance|109737500|102095000|45669f7d-f723-480c-86e7-22e13d93091c|49492152-0a6b-4dfa-8079-fe39e7e93b3b",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|109737500|152895000|54976f7f-9bcd-44bf-9589-fe60d450da14|2cef0ea0-73e9-4ae6-90d6-a9f3892546e1",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|133570000|147595000|0b5007a9-b244-4901-82ed-729a5545f753|7ca5da33-898f-4307-8efa-72e1f0fc0f1f",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|133970000|143370000|35137742-5b77-4a66-acc7-a22302d0aaf1|8bce7483-5a73-4a5c-b436-204e7a043a10",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|134220000|147595000|7ca5da33-898f-4307-8efa-72e1f0fc0f1f|c8a2e919-bb8a-4789-9798-96b59f508c60",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|134620000|143370000|9fefb232-5a82-4f25-8700-51402a95f1e4|35137742-5b77-4a66-acc7-a22302d0aaf1",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|134870000|147595000|c8a2e919-bb8a-4789-9798-96b59f508c60|aaa473d1-4285-46dd-86e0-7acadec531e8",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|135270000|143370000|1c511060-9029-46be-9102-2d67ee4c19d2|9fefb232-5a82-4f25-8700-51402a95f1e4",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|136795000|96795000|674adf4d-f968-4aff-b3c6-6626936e1486|5cf6b74e-5e9f-423e-b1f6-b9fc344c7aff",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|137195000|92570000|adf50597-ec1d-42bd-87a3-8822fa2bffdc|f40ff6bd-1853-4abb-8492-650cfaed9104",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|137445000|96795000|5cf6b74e-5e9f-423e-b1f6-b9fc344c7aff|80c9a10e-8143-49f5-bd45-4953c4da6417",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|137845000|92570000|736d83c0-34a9-4357-81aa-4e0beceb1628|adf50597-ec1d-42bd-87a3-8822fa2bffdc",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|138095000|96795000|80c9a10e-8143-49f5-bd45-4953c4da6417|69d995d3-e5db-4141-ab83-5b2d8341f38f",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|138495000|92570000|483394b7-1de0-4112-9c72-cb5e7049dfd6|736d83c0-34a9-4357-81aa-4e0beceb1628",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|145297500|152895000|7477891f-a7c2-4738-853e-693433b40b8d|7faaf447-0df6-478d-a0cc-a97e43861064",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|148522500|102095000|e4049474-14d4-4fae-90f7-c5daaa4b275c|f94dc764-14d7-4e26-ba89-bee475411271",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|62650000|147595000|7c6d2a6e-a41e-4340-9094-63941291b411|7fe53a92-d2ad-43bc-95a7-69a8f424e6f1",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|62650000|95826720|025e2fda-f339-4450-a774-3a5939a01965|683ef5b7-77b7-483a-bd1b-8ddd50f7518b",
-          "Pads on the Same component"
-        ],
-        [
-          "clearance|63050000|143370000|647193c6-2282-4265-92f7-ed6c5e6b5fe4|de3cec9d-6664-4b50-99fe-724e7caadfc0",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|63050000|91601720|e88d4720-c8b0-4a7a-9a21-fdc8c03a541c|94f58a33-6e71-4af5-a285-5f3742a984cd",
-          "Pads on the Same component"
-        ],
-        [
-          "clearance|63300000|147595000|7fe53a92-d2ad-43bc-95a7-69a8f424e6f1|c40ebe27-ea7b-4ce8-aa48-00109454d13d",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|63300000|95826720|683ef5b7-77b7-483a-bd1b-8ddd50f7518b|7f1ac54d-5ef7-4813-8dbf-40120e90c754",
-          "Pads on the Same component"
-        ],
-        [
-          "clearance|63700000|143370000|fe76c657-9cd0-4ff4-af28-986ce0c96ab0|647193c6-2282-4265-92f7-ed6c5e6b5fe4",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|63700000|91601720|c2dd5338-770e-4c60-91b0-7e55699991a9|e88d4720-c8b0-4a7a-9a21-fdc8c03a541c",
-          "Pads on the Same component"
-        ],
-        [
-          "clearance|63950000|147595000|c40ebe27-ea7b-4ce8-aa48-00109454d13d|4117b1a7-a3f7-4b29-b48f-267100c7a0ab",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|63950000|95826720|7f1ac54d-5ef7-4813-8dbf-40120e90c754|c6a2b135-f7b5-4b16-9d8b-e87341d6d984",
-          "Pads on the Same component"
-        ],
-        [
-          "clearance|64350000|143370000|d2ba06d0-e2e7-4478-806b-e3af8ab595a5|fe76c657-9cd0-4ff4-af28-986ce0c96ab0",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|64350000|91601720|85a6099c-091c-4dfe-86c2-44b88c4840f3|c2dd5338-770e-4c60-91b0-7e55699991a9",
-          "Pads on the Same component"
-        ],
-        [
-          "clearance|74377500|101126720|5bd2119d-2295-40c8-abc1-ee28c6b8ccb4|1dfd2a60-5722-4e11-b26f-76a90698a0f0",
-          "Pads on the Same component"
-        ],
-        [
-          "clearance|74377500|152895000|59152dd8-1b3c-430a-b90d-39e2986420b4|30b8918a-957b-4192-a246-d340e58bceb1",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|98010000|147595000|bafac882-1f94-4c37-94d6-a353552de05a|7bb023c3-2af7-49af-90b1-859209111fa1",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|98010000|96795000|ded48e30-2002-4ae8-8899-5c5578b3c59a|108489bf-109b-450b-bf53-c2adf94a12bc",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|98410000|143370000|7543c616-8450-43cb-b041-af8b8384e88a|daa4b3c9-4f67-412d-a751-6e4f99328530",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|98410000|92570000|324b6068-17f3-4ac1-ae96-c51ae8fcb783|2eabbbd0-df0e-49f8-9f26-b80cfead6d0f",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|98660000|147595000|7bb023c3-2af7-49af-90b1-859209111fa1|6b720f26-1f12-4c72-9916-e38d39fce217",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|98660000|96795000|108489bf-109b-450b-bf53-c2adf94a12bc|15c1c040-3672-4650-9b73-15d6174f6dc5",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|99060000|143370000|28ee5ba1-bc33-486c-a1f5-9bb5b96e5676|7543c616-8450-43cb-b041-af8b8384e88a",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|99060000|92570000|c2811c55-8310-4c64-84c5-8a56959565a0|324b6068-17f3-4ac1-ae96-c51ae8fcb783",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|99310000|147595000|6b720f26-1f12-4c72-9916-e38d39fce217|84eed43a-2ca9-48d2-9ec0-26eaad5cfc89",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|99310000|96795000|15c1c040-3672-4650-9b73-15d6174f6dc5|59aeab85-ed67-483e-b388-a7f9ce615556",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|99710000|143370000|a3f160b5-eaf0-4277-bbe6-085d05e3fc77|28ee5ba1-bc33-486c-a1f5-9bb5b96e5676",
-          "Pads on the same component"
-        ],
-        [
-          "clearance|99710000|92570000|1c19a6ed-5eab-4d90-8570-1a490daef4ec|c2811c55-8310-4c64-84c5-8a56959565a0",
-          "Pads on the same component"
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -830,7 +661,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "Pcbnew",
+    "net_format_name": "KiCad",
     "ngspice": {
       "fix_include_paths": true,
       "fix_passive_vals": false,
@@ -876,11 +707,11 @@
     ],
     [
       "28f12ff7-13cf-4bb5-9fc8-8a396b13726e",
-      "Face Board4"
+      "AntennaBoard"
     ],
     [
       "0223eaf6-f1eb-4348-b152-30e8b3c12cca",
-      "Face Board5"
+      "Z-Board"
     ]
   ],
   "text_variables": {}
