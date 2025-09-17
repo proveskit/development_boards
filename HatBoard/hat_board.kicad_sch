@@ -3234,8 +3234,8 @@
 		)
 		(uuid "1c514a28-3ee5-46cc-8259-fd352f8e6661")
 	)
-	(label "SDAINZ"
-		(at 64.77 172.72 180)
+	(label "SDAIN_ANT"
+		(at 74.93 127 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3264,8 +3264,8 @@
 		)
 		(uuid "3daf6a08-319c-4b80-bd64-2824436f2e27")
 	)
-	(label "SCLIN_ANT"
-		(at 64.77 132.08 180)
+	(label "SCLINZ"
+		(at 74.93 166.37 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3294,8 +3294,8 @@
 		)
 		(uuid "5a13ba8d-fc01-4c9a-9702-631ca6e1ae2d")
 	)
-	(label "SDAIN_ANT"
-		(at 64.77 135.89 180)
+	(label "SDAINZ"
+		(at 74.93 170.18 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3424,8 +3424,8 @@
 		)
 		(uuid "fa180e36-7750-4ac5-ab8f-efe2bfd96b6f")
 	)
-	(label "SCLINZ"
-		(at 64.77 179.07 180)
+	(label "SCLIN_ANT"
+		(at 74.93 133.35 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6731,7 +6731,7 @@
 		)
 	)
 	(sheet
-		(at 64.77 168.91)
+		(at 74.93 123.19)
 		(size 30.48 12.7)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6746,8 +6746,8 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "0223eaf6-f1eb-4348-b152-30e8b3c12cca")
-		(property "Sheetname" "Z-Board"
-			(at 64.77 168.1984 0)
+		(property "Sheetname" "Antenna Board"
+			(at 74.93 122.4784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6756,7 +6756,7 @@
 			)
 		)
 		(property "Sheetfile" "FaceBoard.kicad_sch"
-			(at 64.77 182.1946 0)
+			(at 74.93 136.4746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6765,7 +6765,7 @@
 			)
 		)
 		(pin "SCLIN" input
-			(at 64.77 172.72 180)
+			(at 74.93 127 180)
 			(uuid "b14d40aa-b793-4aa8-b82b-a93237ff637a")
 			(effects
 				(font
@@ -6775,7 +6775,7 @@
 			)
 		)
 		(pin "SDAIN" input
-			(at 64.77 179.07 180)
+			(at 74.93 133.35 180)
 			(uuid "a5858cbb-9067-4fd1-8477-8a0c276264c4")
 			(effects
 				(font
@@ -6793,7 +6793,7 @@
 		)
 	)
 	(sheet
-		(at 64.77 127)
+		(at 74.93 161.29)
 		(size 30.48 12.7)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6808,8 +6808,8 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "28f12ff7-13cf-4bb5-9fc8-8a396b13726e")
-		(property "Sheetname" "AntennaBoard"
-			(at 64.77 126.2884 0)
+		(property "Sheetname" "Z-Board"
+			(at 74.93 160.5784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6818,7 +6818,7 @@
 			)
 		)
 		(property "Sheetfile" "FaceBoard.kicad_sch"
-			(at 64.77 140.2846 0)
+			(at 74.93 174.5746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6827,7 +6827,7 @@
 			)
 		)
 		(pin "SCLIN" input
-			(at 64.77 132.08 180)
+			(at 74.93 166.37 180)
 			(uuid "53670564-7a92-4212-aa78-de7f8906909e")
 			(effects
 				(font
@@ -6837,7 +6837,7 @@
 			)
 		)
 		(pin "SDAIN" input
-			(at 64.77 135.89 180)
+			(at 74.93 170.18 180)
 			(uuid "0316ee54-78c7-4908-8952-afd26e03fca2")
 			(effects
 				(font

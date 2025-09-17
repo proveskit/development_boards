@@ -625,6 +625,24 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part",
+          "name": "LCSC Part",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -707,11 +725,11 @@
     ],
     [
       "28f12ff7-13cf-4bb5-9fc8-8a396b13726e",
-      "AntennaBoard"
+      "Z-Board"
     ],
     [
       "0223eaf6-f1eb-4348-b152-30e8b3c12cca",
-      "Z-Board"
+      "Antenna Board"
     ]
   ],
   "text_variables": {}
