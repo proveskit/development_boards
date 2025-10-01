@@ -903,7 +903,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 66.04) (xy 153.67 66.04)
+			(xy 138.43 66.04) (xy 147.32 66.04)
 		)
 		(stroke
 			(width 0)
@@ -1055,7 +1055,7 @@
 	)
 	(global_label "SCL"
 		(shape input)
-		(at 153.67 66.04 0)
+		(at 147.32 66.04 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1065,7 +1065,7 @@
 		)
 		(uuid "860932ef-dd3c-4705-9afc-9e7dd7c3a36d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 159.5086 66.04 0)
+			(at 153.1586 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)

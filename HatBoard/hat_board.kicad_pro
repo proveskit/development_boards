@@ -199,7 +199,8 @@
         0.127,
         0.1524,
         0.3,
-        0.5
+        0.5,
+        3.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -233,7 +234,7 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.45,
+          "diameter": 2.0,
           "drill": 0.3
         }
       ],
@@ -256,12 +257,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      [
-        "power_pin_not_driven|1168400|863600|cb907407-30b1-4c2f-95f9-4a49d5ef6907|00000000-0000-0000-0000-000000000000|/b92e10d4-ef16-4e79-8a94-1185be6812fd/5c943315-e78f-4a2a-b4f0-f158a8266abf|/b92e10d4-ef16-4e79-8a94-1185be6812fd/5c943315-e78f-4a2a-b4f0-f158a8266abf|",
-        "This is a connector that shorts so doesnt need power"
-      ]
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -543,7 +539,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "hat_b_attempt4.step",
+      "step": "hat_b_attempt12.step",
       "svg": "",
       "vrml": ""
     },
