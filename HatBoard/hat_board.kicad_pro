@@ -406,7 +406,12 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "power_pin_not_driven|1168400|863600|cb907407-30b1-4c2f-95f9-4a49d5ef6907|00000000-0000-0000-0000-000000000000|/b92e10d4-ef16-4e79-8a94-1185be6812fd/5c943315-e78f-4a2a-b4f0-f158a8266abf|/b92e10d4-ef16-4e79-8a94-1185be6812fd/5c943315-e78f-4a2a-b4f0-f158a8266abf|",
+        "This is a connector that shorts so doesnt need power"
+      ]
+    ],
     "meta": {
       "version": 0
     },
