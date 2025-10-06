@@ -59,7 +59,156 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "clearance|180927500|105425000|05c2f387-ad1e-44b1-8668-ccec36c70d76|1677fb77-e0c2-4bc9-a139-57d5c9ab6a8a",
+          "On the same part"
+        ],
+        [
+          "clearance|180927500|106075000|1677fb77-e0c2-4bc9-a139-57d5c9ab6a8a|5f6764cb-25e8-4006-8ee4-7dc94db09756",
+          "On the same part"
+        ],
+        [
+          "clearance|180927500|106725000|5f6764cb-25e8-4006-8ee4-7dc94db09756|8e1e13bf-2f38-469a-8237-4e6424f06204",
+          "On the same part"
+        ],
+        [
+          "clearance|185152500|105825000|599a2485-a06c-487e-9a97-cedd8b0d1295|ca2efd89-8cea-4356-ae71-6b65f9740415",
+          "On the same part"
+        ],
+        [
+          "clearance|185152500|106475000|28a7ec46-c362-4cbc-9173-449a9280b9e3|599a2485-a06c-487e-9a97-cedd8b0d1295",
+          "On the same part"
+        ],
+        [
+          "clearance|185152500|107125000|4c28fcb0-b76a-4b60-bc1b-c9f648c2caa9|28a7ec46-c362-4cbc-9173-449a9280b9e3",
+          "On the same part"
+        ],
+        [
+          "clearance|212560000|83682500|381157ab-d8ef-4fc3-a899-3e16cf3f81eb|ed9dda84-c94a-44f3-9b75-4a3b927b3186",
+          "On the same part"
+        ],
+        [
+          "clearance|233182500|82325000|844e3cbc-a15f-49f7-bcf8-7b80deba6591|aff9d9b9-cbd7-4217-9fae-7d6d77b9fccf",
+          "On the same part"
+        ],
+        [
+          "clearance|233182500|82975000|aff9d9b9-cbd7-4217-9fae-7d6d77b9fccf|d8a5a013-1843-4611-be03-eec4d91554aa",
+          "On the Same part"
+        ],
+        [
+          "clearance|233182500|83625000|d8a5a013-1843-4611-be03-eec4d91554aa|9d8977ea-ccc8-4e0d-b9ad-51392ab971f7",
+          "On the same part"
+        ],
+        [
+          "clearance|234712500|106035000|3da9c27a-2567-4cf1-ba98-623b034cdec2|7a6e32d9-c498-41c4-808d-1e9d04dbcde0",
+          "On the same part"
+        ],
+        [
+          "clearance|234712500|106685000|7a6e32d9-c498-41c4-808d-1e9d04dbcde0|ed6aaf13-2f2c-4730-8e83-6bc3664c36ad",
+          "On the same part"
+        ],
+        [
+          "clearance|234712500|107335000|ed6aaf13-2f2c-4730-8e83-6bc3664c36ad|3153750e-6e14-422c-a3c4-0a6c1ed30735",
+          "On the same part"
+        ],
+        [
+          "clearance|235035000|55420000|a2d2483b-ca83-40c4-a231-20d227324869|bc798572-a142-4aee-9402-4aca77e783f3",
+          "On the same part"
+        ],
+        [
+          "clearance|235035000|56070000|bc798572-a142-4aee-9402-4aca77e783f3|ded802ae-502c-40d2-8116-0b02e0af61f8",
+          "On the same part"
+        ],
+        [
+          "clearance|235035000|56720000|ded802ae-502c-40d2-8116-0b02e0af61f8|46545eed-169a-4ec4-8e31-1a8d966bbe5d",
+          "On the same part"
+        ],
+        [
+          "clearance|235572500|95235000|e6cdb06c-6bfd-40aa-89f0-bf3544c7fb11|81600b3a-29f5-4093-aacc-befdedcd5970",
+          "On the same part"
+        ],
+        [
+          "clearance|235572500|95885000|81600b3a-29f5-4093-aacc-befdedcd5970|b9a68592-5a5a-487d-9202-516146c90aa7",
+          "On the same part"
+        ],
+        [
+          "clearance|235572500|96535000|b9a68592-5a5a-487d-9202-516146c90aa7|f2b58494-3178-456c-840c-6f1cd846eb1a",
+          "On the same part"
+        ],
+        [
+          "clearance|237407500|82725000|f307606e-7159-4fe0-89c9-831d7ca3b9a9|14ec04f4-3a4b-42b9-b390-6c401aee2f0c",
+          "On the same part"
+        ],
+        [
+          "clearance|237407500|83375000|8a83bb37-9d21-4c79-b9ea-34ecfd6821ab|f307606e-7159-4fe0-89c9-831d7ca3b9a9",
+          "On the Same part"
+        ],
+        [
+          "clearance|237407500|84025000|e4da91c1-87f4-43ce-b9d1-6a0d4a81dceb|8a83bb37-9d21-4c79-b9ea-34ecfd6821ab",
+          "On the same part"
+        ],
+        [
+          "clearance|238937500|106435000|65e67d11-b41c-4404-83c8-bfca63aea357|6a10ced5-f46c-40e3-9304-65f289f9e8cc",
+          "On the same part"
+        ],
+        [
+          "clearance|238937500|107085000|180dfe31-8985-47f7-b9b6-d7e9a8f191e0|65e67d11-b41c-4404-83c8-bfca63aea357",
+          "On the same part"
+        ],
+        [
+          "clearance|238937500|107735000|e04c463c-04ae-43bf-8dbd-ef7743570558|180dfe31-8985-47f7-b9b6-d7e9a8f191e0",
+          "On the same part"
+        ],
+        [
+          "clearance|239260000|55820000|6bc57d99-3067-4169-b8ff-9875e0b57d1f|c222f89f-6c88-4754-980f-49fcd3ce2976",
+          "On the same part"
+        ],
+        [
+          "clearance|239260000|56470000|5473b884-8477-4b19-b819-4d7ecab0374f|6bc57d99-3067-4169-b8ff-9875e0b57d1f",
+          "On the same part"
+        ],
+        [
+          "clearance|239260000|57120000|75ee677e-8731-4101-a168-a28b89439cf2|5473b884-8477-4b19-b819-4d7ecab0374f",
+          "On the same part"
+        ],
+        [
+          "clearance|239797500|95635000|6ecf557b-7668-43cf-b487-38271f7a61a7|62fbba53-4461-4be9-a363-528927f038cf",
+          "On the same part"
+        ],
+        [
+          "clearance|239797500|96285000|49cfb3d3-a4e4-4e55-baa5-43fffb9d51f3|6ecf557b-7668-43cf-b487-38271f7a61a7",
+          "On the same part"
+        ],
+        [
+          "clearance|239797500|96935000|1b7e4fb6-c7a6-4585-a03a-7e18ec4ba1db|49cfb3d3-a4e4-4e55-baa5-43fffb9d51f3",
+          "On the same part"
+        ],
+        [
+          "clearance|242150000|78540000|72c6b08d-3bbd-4cd7-ab5d-ee9f99169751|d574e181-c44e-4cfd-a0d5-7475d919e7ca",
+          "On the same board"
+        ],
+        [
+          "clearance|242550000|74315000|fd8dabdc-578a-4ec5-8c4a-a2fdc9ff78cd|86ab39f5-eda6-4278-af81-bebafc52c943",
+          "On the same board"
+        ],
+        [
+          "clearance|242800000|78540000|d574e181-c44e-4cfd-a0d5-7475d919e7ca|b31bd1f9-9bd7-4ed7-b8d8-866dcb99247e",
+          "On the same part"
+        ],
+        [
+          "clearance|243200000|74315000|66686793-812d-42f4-b42c-7598e31bcc80|fd8dabdc-578a-4ec5-8c4a-a2fdc9ff78cd",
+          "On the same board"
+        ],
+        [
+          "clearance|243450000|78540000|b31bd1f9-9bd7-4ed7-b8d8-866dcb99247e|df0027d2-f9bc-4c81-a9f3-44e4dc754348",
+          "On the same part"
+        ],
+        [
+          "clearance|243850000|74315000|9451beb6-a4da-4343-a07a-00c7fde4c8f3|66686793-812d-42f4-b42c-7598e31bcc80",
+          "On the same part"
+        ]
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
