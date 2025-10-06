@@ -1056,6 +1056,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C5184785"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "d734c4d9-701a-4a09-93c2-d099268d385d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/82e0c452-af76-4bfe-8964-195d7b00d9c3")
 		(sheetname "/")
@@ -1544,7 +1556,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 2.99 -0.09 0)
+			(at -2.95 1.59 0)
 			(layer "F.Fab")
 			(uuid "c6a19a03-8d15-4cd6-b341-4ad2054de96f")
 			(effects
@@ -2557,7 +2569,7 @@
 			)
 		)
 		(property "Value" "D_Schottky"
-			(at 2.99 -1.9 0)
+			(at 4.6 -3.26 0)
 			(layer "F.Fab")
 			(uuid "27fb0f3d-e7c9-4ce9-a2da-dc90f34ed8fc")
 			(effects
@@ -3670,7 +3682,7 @@
 		(descr "VSSOP, 8 Pin (https://www.jedec.org/standards-documents/docs/mo-187-f), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "VSSOP SO JEDEC-MO-187-AA Texas_DGK0008A")
 		(property "Reference" "U17"
-			(at 1.6775 -2.785 0)
+			(at 5.4675 0.255 90)
 			(layer "F.SilkS")
 			(uuid "ca456deb-3717-4526-b14b-e156610c0228")
 			(effects
@@ -4277,7 +4289,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C15195"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -4910,7 +4922,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C15195"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -7396,7 +7408,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C15195"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -9496,7 +9508,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C15195"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -10334,7 +10346,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C15195"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -10756,7 +10768,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C15195"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -11323,7 +11335,7 @@
 			)
 		)
 		(property "Value" "Z-DF11 FC Connection"
-			(at 7.95 -6.36 0)
+			(at 8.85 -4.85 0)
 			(layer "B.Fab")
 			(uuid "4bff1029-8aa1-4551-bebf-5f4afafec1ea")
 			(effects
@@ -11360,7 +11372,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C7171041"
+		(property "LCSC" "C2692082"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -11682,7 +11694,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C7171041"
+		(property "LCSC" "C2692082"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -12022,7 +12034,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C7171041"
+		(property "LCSC" "C2692082"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -12362,7 +12374,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C7171041"
+		(property "LCSC" "C2692082"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -12647,6 +12659,50 @@
 				(xyz -0 -0 -0)
 			)
 		)
+	)
+	(gr_rect
+		(start 223.73 45.52)
+		(end 231.62 56.67)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "2015cc98-eab7-4e02-85ac-b7781a446118")
+	)
+	(gr_rect
+		(start 216.11 80.69)
+		(end 223.13 91.41)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "7b403a1a-00f2-4efa-b26e-f6e674e7adec")
+	)
+	(gr_rect
+		(start 189.89 108.11)
+		(end 197.33 119.67)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "afaaba7f-1a72-4ccb-9bdd-751192946616")
+	)
+	(gr_rect
+		(start 216.56 99.47)
+		(end 223.58 110.19)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d4a1f400-0244-4e59-aa4f-ace44999f46b")
 	)
 	(gr_line
 		(start 170.230394 104.109194)
@@ -13005,10 +13061,214 @@
 		(layer "Edge.Cuts")
 		(uuid "ff28978a-bee1-4fbb-8680-7371beb88e86")
 	)
+	(gr_text "NET X\nSCL GND\nSCL X"
+		(at 216.4 87.32 0)
+		(layer "F.SilkS")
+		(uuid "1871002f-7ba8-4e58-914e-644741f4aed1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND GND\nX   X\nSCL X"
+		(at 224.53 51 0)
+		(layer "F.SilkS")
+		(uuid "1b8057ad-a811-414b-923c-eb0f06c5512a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "NET X"
+		(at 190.61 112.07 0)
+		(layer "F.SilkS")
+		(uuid "2b15337f-4eae-459c-b859-3d1fc6d1e368")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SDA NET\nX   X\nX   X"
+		(at 224.38 55.99 0)
+		(layer "F.SilkS")
+		(uuid "34fb9ecd-8f4c-4cc4-b860-19d37a581bf3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Face Board (Bottom)\n"
+		(at 211.67 112.39 0)
+		(layer "F.SilkS")
+		(uuid "4f202345-f2b7-467c-82a7-48056b34fe60")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Z- Board"
+		(at 190.11 121.6 0)
+		(layer "F.SilkS")
+		(uuid "532cde5f-1402-4cb7-a6bb-fb43f584bf44")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "X X\nX X"
+		(at 191.47 119.08 0)
+		(layer "F.SilkS")
+		(uuid "6de2c78a-cc1e-4e6a-8553-2c31072e7ddc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "NET X\nSDA GND\n"
+		(at 216.44 90.56 0)
+		(layer "F.SilkS")
+		(uuid "7675b59b-935d-42bf-8d38-bf14dc2718b8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SCL GND\n"
+		(at 190.17 113.78 0)
+		(layer "F.SilkS")
+		(uuid "7722974e-8299-448d-8cbb-78b233e39740")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SDA X"
+		(at 216.85 101.44 0)
+		(layer "F.SilkS")
+		(uuid "7abf0a48-ea8d-4c64-9d7a-6ce920cfa322")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "NET X\nSDA GND\n"
+		(at 216.85 109.44 0)
+		(layer "F.SilkS")
+		(uuid "846099e9-43c5-4b9c-a4ea-652138ff0ec7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SDA X"
+		(at 216.44 82.56 0)
+		(layer "F.SilkS")
+		(uuid "8aa1d6fc-160a-42d9-a58d-4b4c8d99ed98")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "Antenna Board\n"
 		(at 238.38 49.07 0)
 		(layer "F.SilkS")
 		(uuid "8d39eb3f-2e1b-4d41-b899-1ab0ede7e15b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "NET X\nSCL GND\nSCL X"
+		(at 216.81 106.2 0)
+		(layer "F.SilkS")
+		(uuid "b318d620-0d8a-4d4a-a662-fe329aff3491")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "X X"
+		(at 191.38 115.79 0)
+		(layer "F.SilkS")
+		(uuid "b5a05fcf-9945-4078-972b-fc1cc5d328ca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Face Board (Top)\n"
+		(at 211.26 93.51 0)
+		(layer "F.SilkS")
+		(uuid "cf635e6e-a98d-4c37-8090-7f02859f786f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Antenna Board\n"
+		(at 223.1 44.39 0)
+		(layer "F.SilkS")
+		(uuid "dbedb178-0784-4a63-bd6b-f4a4aabff445")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SDA  X"
+		(at 190.47 110.25 0)
+		(layer "F.SilkS")
+		(uuid "e3549ace-52f0-4cdc-b55e-ef4d1f9a6397")
 		(effects
 			(font
 				(size 1 1)
